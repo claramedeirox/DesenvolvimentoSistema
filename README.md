@@ -1,4 +1,5 @@
 
+
 # Desenvolvimento de sistemas 
 
 Aula de Configuração de ambiente para o JavaScript
@@ -6,5 +7,6 @@ Aula de Configuração de ambiente para o JavaScript
 
 ## Autores
 
-- [@ClaraMedeiros](https://www.github.com/octokatherine)
+- [@ClaraMedeiros](https://www.github.com/claramdeirox)
+
 
