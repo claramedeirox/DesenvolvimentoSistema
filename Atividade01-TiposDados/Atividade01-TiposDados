@@ -1,0 +1,13 @@
+let n1 = 1 
+let n2 = 2
+let n3 = 3
+let n4 = 4
+let n5 = 5
+
+let texto01 = "Aprendi"
+let texto02 = "JavaScript"
+
+console.log(n1 +", " + n2 + "," + n3 + "," + n4 + ","+ n5 + "..." + texto01 +" "+ texto02 );
+
+
+
