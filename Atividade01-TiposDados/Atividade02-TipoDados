@@ -1,0 +1,44 @@
+ let  n1 = 0 ;
+ console.log(typeof(n1));
+
+ let  number = 3.14 ;
+ console.log(typeof(number));
+
+ let  tex1 = Infinity;
+ console.log(typeof(tex1));
+
+ let  erro = NaN; 
+ console.log(typeof(erro));
+
+ let  Verdadeiro = true;
+ console.log(typeof(verdadeiro));
+
+ let  number2 = 4>1;
+ console.log(typeof(number2));
+
+let text03 = "text" ;
+console.log(typeof(number2));
+
+let n2 ="É tetra"+1994;
+console.log(typeof(n2));
+
+let symbol = Symbol("id");
+console.log(typeof(symbol));
+
+let data ="Date";
+console.log(typeof(data));
+
+let string1 = String;
+console.log(typeof(string1));
+
+let numbers =[1,2,3,4];
+console.log(typeof(numbers));
+
+let vazio = null;
+console.log(typeof(vazio));
+
+let num = undefined;
+console.log(typeof(num));
+
+
+console.log(typeof(alert));
